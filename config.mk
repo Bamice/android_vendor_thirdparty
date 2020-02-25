@@ -8,6 +8,6 @@ PRODUCT_PACKAGES += \
     MiCalculator \
     MiPushManager \
     MiPushService \
-#    appD \
+    Calendar2 \
 #    appE \
 #    appF \
