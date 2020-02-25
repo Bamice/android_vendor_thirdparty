@@ -6,6 +6,8 @@ include $(call all-subdir-makefiles, $(LOCAL_PATH))
 
 PRODUCT_PACKAGES += \
     MiCalculator \
-#    appB \
-#    appC \
-#    appD
+    MiPushManager \
+    MiPushService \
+#    appD \
+#    appE \
+#    appF \
